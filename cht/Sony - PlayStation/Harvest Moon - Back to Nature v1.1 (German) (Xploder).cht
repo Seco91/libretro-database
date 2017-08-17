@@ -1,0 +1,266 @@
+cheats = 66 
+
+cheat0_desc = "Max Geld"
+cheat0_code = "800762F2+0000"
+cheat0_enable = false 
+
+cheat0_desc = "Unendlich Ausdauer"
+cheat0_code = "800573F0+FFFF+80071A5C+FFFF"
+cheat0_enable = false 
+
+cheat0_desc = "Unendlich Holz"
+cheat0_code = "80075614+03E7"
+cheat0_enable = false 
+
+cheat0_desc = "Max Futter"
+cheat0_code = "80075616+03E7"
+cheat0_enable = false 
+
+cheat0_desc = "Max Hühnerfutter"
+cheat0_code = "8007561C+03E7"
+cheat0_enable = false 
+
+cheat0_desc = "Max Fisch Futter"
+cheat0_code = "8007561A+03E7"
+cheat0_enable = false 
+
+cheat0_desc = "Max Herzen Hund"
+cheat0_code = "3007A2D6+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Max Herzen Pferd"
+cheat0_code = "3007A3C6+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Max Hund Intelligenz"
+cheat0_code = "3007A36C+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Max Pferd Ausdauer"
+cheat0_code = "3007A45C+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Morgen Sonne"
+cheat0_code = "8007F5DE+0000"
+cheat0_enable = false 
+
+cheat0_desc = "Morgen Regen"
+cheat0_code = "8007F5DE+0001"
+cheat0_enable = false 
+
+cheat0_desc = "Morgen Schnee"
+cheat0_code = "8007F5DE+0002"
+cheat0_enable = false 
+
+cheat0_desc = "Morgen Hurricane"
+cheat0_code = "8007F5DE+0003"
+cheat0_enable = false 
+
+cheat0_desc = "Morgen Blizzard"
+cheat0_code = "8007F5DE+0004"
+cheat0_enable = false 
+
+cheat0_desc = "Max Zuneigung Elfen"
+cheat0_code = "8007EF2A+010E+8007F022+010E+8007F11A+010E+8007F212+010E+8007F30A+010E+8007F402+010E+8007F4FA+010E"
+cheat0_enable = false 
+
+cheat0_desc = "Kochus Frei"
+cheat0_code = "3007EFCC+0000+3007EFC8+0000"
+cheat0_enable = false 
+
+cheat0_desc = "Schlummi Frei"
+cheat0_code = "3007F0C4+0000+3007F0C0+0000"
+cheat0_enable = false 
+
+cheat0_desc = "Veig Frei"
+cheat0_code = "3007F1BC+0000+3007F1B8+0000"
+cheat0_enable = false 
+
+cheat0_desc = "Rafi Frei"
+cheat0_code = "3007F2B4+0000+3007F2B0+0000"
+cheat0_enable = false 
+
+cheat0_desc = "Kalmi Frei"
+cheat0_code = "3007F3AC+0000+3007F3A8+0000"
+cheat0_enable = false 
+
+cheat0_desc = "Wack Frei"
+cheat0_code = "3007F4A4+0000+3007F4A0+0000"
+cheat0_enable = false 
+
+cheat0_desc = "Plitsch Frei"
+cheat0_code = "3007F59C+0000+3007F598+0000"
+cheat0_enable = false 
+
+cheat0_desc = "Kochus Felder abernten"
+cheat0_code = "3007EFCC+0001+3007EFC8+0063+3007EFC2+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Schlummi Felder abernten"
+cheat0_code = "3007F0C4+0001+3007F0C0+0063+3007F0BA+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Veig Felder abernten"
+cheat0_code = "3007F1BC+0001+3007F1B8+0063+3007F1B2+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Rafi Felder abernten"
+cheat0_code = "3007F2B4+0001+3007F2B0+0063+3007F2AA+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Kalmi Felder abernten"
+cheat0_code = "3007F3AC+0001+3007F3A8+0063+3007F3A2+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Wack Felder abernten"
+cheat0_code = "3007F4A4+0001+3007F4A0+0063+3007F49A+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Plitsch Felder abernten"
+cheat0_code = "3007F59C+0001+3007F598+0063+3007F592+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Kochus Felder bewässern"
+cheat0_code = "3007EFCC+0002+3007EFC8+0063+3007EFC4+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Schlummi Felder bewässern"
+cheat0_code = "3007F0C4+0002+3007F0C0+0063+3007F0BC+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Veig Felder bewässern"
+cheat0_code = "3007F1BC+0002+3007F1B8+0063+3007F1B4+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Rafi Felder bewässern"
+cheat0_code = "3007F2B4+0002+3007F2B0+0063+3007F2AC+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Kalmi Felder bewässern"
+cheat0_code = "3007F3AC+0002+3007F3A8+0063+3007F3A4+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Wack Felder bewässern"
+cheat0_code = "3007F4A4+0002+3007F4A0+0063+3007F49C+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Plitsch Felder bewässern"
+cheat0_code = "3007F59C+0002+3007F598+0063+3007F594+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Kochus Tiere Versorgen"
+cheat0_code = "3007EFCC+0004+3007EFC8+0063+3007EFC6+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Schlummi Tiere Versorgen"
+cheat0_code = "3007F0C4+0004+3007F0C0+0063+3007F0BE+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Veig Tiere Versorgen"
+cheat0_code = "3007F1BC+0004+3007F1B8+0063+3007F1B6+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Rafi Tiere Versorgen"
+cheat0_code = "3007F2B4+0004+3007F2B0+0063+3007F2AE+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Kalmi Tiere Versorgen"
+cheat0_code = "3007F3AC+0004+3007F3A8+0063+3007F3A6+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Wack Tiere Versorgen"
+cheat0_code = "3007F4A4+0004+3007F4A0+0063+3007F49E+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Plitsch Tiere Versorgen"
+cheat0_code = "3007F59C+0004+3007F598+0063+3007F596+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Max Sichel"
+cheat0_code = "8007631C+FFFF"
+cheat0_enable = false 
+
+cheat0_desc = "#Max Hacken"
+cheat0_code = "8007631E+FFFF"
+cheat0_enable = false 
+
+cheat0_desc = "Max Axt"
+cheat0_code = "80076320+FFFF"
+cheat0_enable = false 
+
+cheat0_desc = "Max Hammer"
+cheat0_code = "80076322+FFFF"
+cheat0_enable = false 
+
+cheat0_desc = "Max Gießkanne"
+cheat0_code = "80076324+FFFF"
+cheat0_enable = false 
+
+cheat0_desc = "Max Einnahmen"
+cheat0_code = "80075AD8+967F+80075ADA+0098"
+cheat0_enable = false 
+
+cheat0_desc = "Keine Ausgaben"
+cheat0_code = "80075ADC+0000"
+cheat0_enable = false 
+
+cheat0_desc = "Max Medaillen"
+cheat0_code = "8007633C+967F+8007633E+0098"
+cheat0_enable = false 
+
+cheat0_desc = "Baby's Zuneigung"
+cheat0_code = "3007ECCE+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Rotes Herz Popuri"
+cheat0_code = "8007CF90+FFFF"
+cheat0_enable = false 
+
+cheat0_desc = "Rotes Herz Elli"
+cheat0_code = "8007BB74+FFFF"
+cheat0_enable = false 
+
+cheat0_desc = "Rotes Herz Karen"
+cheat0_code = "8007B07C+FFFF"
+cheat0_enable = false 
+
+cheat0_desc = "Rotes Herz Ann"
+cheat0_code = "8007B7CC+FFFF"
+cheat0_enable = false 
+
+cheat0_desc = "Rotes Herz Mary"
+cheat0_code = "8007C498+FFFF"
+cheat0_enable = false 
+
+cheat0_desc = "Huhn 1"
+cheat0_code = "30078BDE+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Huhn 2"
+cheat0_code = "30078C92+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Huhn 3"
+cheat0_code = "30078D46+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Huhn 4"
+cheat0_code = "30078DFA+00FF"
+cheat0_enable = false 
+
+cheat0_desc = "Kuh 1"
+cheat0_code = "800792E6+010E"
+cheat0_enable = false 
+
+cheat0_desc = "Kuh 2"
+cheat0_code = "8007939E+010E"
+cheat0_enable = false 
+
+cheat0_desc = "Kuh 3"
+cheat0_code = "80079456+010E"
+cheat0_enable = false 
+
+cheat0_desc = "Kuh 4"
+cheat0_code = "8007950E+010E"
+cheat0_enable = false 
+
